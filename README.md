@@ -3,8 +3,8 @@
 
 - Bem vindo ao meu perfil do Github!
 
-![Levi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Levi2804&show_icons=true&theme=tokyonight)
-![Linguagens Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Levi2804&layout=compact&show_icons=true&theme=tokyonight)
+![Levi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Levi2804&show_icons=true&theme=algolia)
+![Linguagens Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Levi2804&layout=compact&show_icons=true&theme=algolia)
 ## Contato
 
 [![Gamil](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leviaraujomaianeto@gmail.com)
